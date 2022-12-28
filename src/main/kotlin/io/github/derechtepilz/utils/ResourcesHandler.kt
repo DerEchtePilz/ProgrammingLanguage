@@ -2,7 +2,6 @@ package io.github.derechtepilz.utils
 
 import com.google.gson.JsonParser
 import java.io.BufferedReader
-import java.io.File
 import java.io.InputStreamReader
 
 class ResourcesHandler {
