@@ -113,4 +113,5 @@ buildNumber.properties
 run/
 
 # Files
+META-INF
 *.env
